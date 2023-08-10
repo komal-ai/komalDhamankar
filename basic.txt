@@ -1,0 +1,623 @@
+
+https://at.mavenir.com/bb/projects/NWDAF/repos/nwdaf/pull-requests?create&sourceBranch=refs%2Fheads%2FLoad%2FThreshold&targetRepoId=10762
+PF-UAN-101381460841
+password-pVAVEp$&%157
+manoj.kumar
+Maven@1211
+flowgenscript.py
+wget https://golang.org/dl/go1.15.1.linux-amd64.tar.gz
+sudo tar -xvf go1.15.1.linux-amd64.tar.gz
+sudo mv go /usr/local/
+nano .bashrc
+export GOROOT=/usr/local/go
+export GOPATH=$HOME/go
+export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
+go get -u github.com/go-sql-driver/mysql
+go mod init github.com/golangbot/mysqltutorial
+https://payslips.mavenir.com/
+go mod init github.com/golangbot/mysqltutorial
+sudo apt-get install build-essential
+pip install robotframework-jsonlibrary==0.3.1
+11210
+31510
+32643
+30832
+30483
+
+------all IP and ports
+for 142 machine
+SUBS_IP = "10.1.23.142"
+SUBS_PORT = "31218"
+31218
+for 215 machine
+#SUBS_IP = "10.1.12.215"
+#SUBS_PORT = "31380"
+for 55 
+#SUBS_IP = "10.10.205.55"
+#SUBS_PORT = "9992"
+Ip 10.10.210.221
+username root
+password-mavenir
+  kpi_after    ${TestName}
+
+
+----steps for git clone
+in home dir
+ssh-keygen
+cd .ssh
+vi id_rsa.pub cpy 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC9F1bzcOjrquAtSjr1ik4NpKiwaVns+eyqmZmqk6RvzwhrfqJ/fovat/WFdyT53X9JC5kMrGNu4AsXzK+9123/PKqi6aRAj17tLbwRz55fI8Z5z9+bkNZrAP066q0y2eeJol6XrsA9mow3zwnNgz41X+0MRQ7S439tbKm2KGy8pvxmusPqICmPfm/DoIjGZTdoBC31b5zbcdM+O1SRq1VNBkhZqctbcA/Fby2cQ2ZBOkY8K1sZX5QiOx0XNDDjOUv6Wvb67I4sXWwIADmUfW2V34K31Y+xm3UyVUAz2wtirtSsjpj+equ7pc+QE2eEwaRkfJXZP1SH7FvlXkoTpqoR dhamankark@devcent74-55
+https://at.mavenir.com/bb/projects/NWDAF/repos/nwdaf/browse
+https://at.mavenir.com/bb/scm/nwdaf/nwdaf.git
+add key
+git clone ssh://git@bbmirror-in-bg.mavenir.com:7999/at/nwdaf/nwdaf.git
+git clone ssh://git@bbmirror-in-bg.mavenir.com:7999/at/mwp/mwp-appcommon.git
+git pull origin master
+rm -rf mwp-appcommon/ cento*
+
+in nwdaf dir 
+./BUILD centos
+cp filaname1 filename2  ~/
+
+-----Permanet username and password save
+git config --global credential.helper store
+
+-----cmds for git commit
+git branch
+git checkout -b feature/BUILD
+git status 
+git diff
+git add files/path
+git commit.....git reset 
+git commit automation/install_scripts/nwdaf_deployment.sh -m "NWDAF-220: Jenkins error 2 jun"
+git push
+git push --set-upstream origin feacture/BUILD
+copy link and paste on chrome 
+continue
+diff
+merge
+git reset HEAD^
+
+{
+  "KTAB": "IPFIXNODENAME",
+  "nodeNameList": [
+    "192.168.100.42",
+    "10.10.224.54",
+    "IpfixRecord",
+    "Ipfix Record"
+  ]
+}
+
+
+RANCONGESTION-POLICYDOC
+----getting authentication failing error while pushing data
+cat ~/.gitconfig
+vi ~/.gitconfig
+change name Komal Dhamankar ...cheak name same or not
+git config --global user.name
+git commit --amend
+
+---branch for bugfix
+bugfix/loggingsupport-bug 
+
+fot delete branch
+git branch -d  natlogger/analyticsInfoSvc -f
+git chechout master
+
+--for git revert below cmd run 
+git clean -f
+git reset --hard
+git pull origin
+
+git ls-files -m----for git status we can use this cmd
+git commit -i 
+
+binary 
+./analyticsInfosvc
+cp ../../config/appconfig/json/common/nwdafCbCfg.json .
+
+fecture
+-----stop services
+ctrl +c
+kill -9 22775
+kill -9 23915
+isof -ti tcp:31111
+kill -9 port
+ps -eaf |grep nwdaf
+ps -eaf |grep anl
+grep -R 17001
+netstat -anp |grep port no
+8052f02009c5
+--show line number
+esc+ : + set nu
+
+--end of file press
+esc+end
+
+--search word 
+/word
+/?word
+
+--q!-not saved
+wq -saved
+
+---last line 
+esc+$
+
+---search word 
+esc+:+?word
+
+---find line no in linux
+esc+line no+Shift-g
+
+
+--3yy..copy next 3 line
+
+--esc+c+shifit+$ ..curser pasun delete krayche asel tr
+
+---esc +p --paste
+
+esc+uu---undo
+
+for replce
+/%s/fog/bar/g
+nwdaf-anlytcinfo-6b5469dcf5-xlglw_nwdaf-tushar_-4e3c3bf937cc04417fcd0d6d02dc6650d175d3fa0e9d4a94566be6ee098d93bb.log
+ 
+couch base db--- http://10.10.227.22:8091/ui/index.html#!/doc_editor --55 and 215 machine
+                 http://10.1.1.47:8080/job/NWDAF-Patch--Automation_Test/
+couch base db:---http://10.1.23.142:31191/ui/index.html#!/documents/editor?scenarioZoom=day--142 machine
+
+
+"userName": "sessiondb_nwdaf",
+"password": "Crd!@Mav123",
+
+1.pip install httplib2
+2.pip install hyper
+3.pip install deepdiff
+pip install robotframework-requests
+
+grep -R "Ip" .
+
+ kubectl get svc -n nwdaf-it-dailybuild
+ssh root@10.1.12.215
+ssh root@10.1.23.142
+ssh root@10.10.224.54
+10.20.58.173
+ssh root@10.10.210.221
+
+watch kubectl get pods -n mvnr-mtcil1-appln-nwdaf-nwdaf1
+
+kubectl get pods -n mvnr-mtcil1-appln-nwdaf-nwdaf1
+
+kubectl get pods -n mvnr-mtcil1-appln-nwdaf-nwdaf1 -o wide
+
+namespace---->-n mvnr-mtcil1-appln-nwdaf-nwdaf1
+
+
+kubectl logs pod name -n mvnr-mtcil1-appln-nwdaf-nwdaf1 us-analyticsinfo -f
+
+kubectl exec -it nwdaf-pollingtmr-86575bb886-mp6hc  -n mvnr-mtcil1-appln-nwdaf-nwdaf1  bash
+
+
+couchDB = {"ip":"10.10.220.188",
+	"port":"8093",
+	"userName":"sessiondb_cdb",
+	"password":"mavenir"}
+7080950d0cea91
+fafafafaf8
+123456faf8
+ranagg-cellident
+54--pybot  --outputdir=/tmp/NWDAF_RND --variablefile=../variables/Provision.py --test "EventSubscriptionReqWithEmptynfLoadThresholdWithAmf" NWDAF_Sanity_Suite1.robot
+221--robot  --outputdir=/tmp/komal --variablefile=../variables/Provision77.py --test "ObservedSvcExpAnalyticsSubwithSupiPastTs" NWDAF_Sanity_QoS.robot
+- name: ENV_SERVICE_ID
+              value: {{.Values.componentSpec.deployment.nwdaf_pollingtmr.env_svc_id | quote}}
+${testDataPath}    ${CURDIR}/../testfiles/QoEUtils/
+startts<enets<mondur
+---------on 55 machine getting not connected any host error
+go to nwdafCbCfg.json  any give 55 couchdb ip and port 11210
+
+-------on 55 machine getting mtcil register error
+go to commonstatic file
+type natslogger console
+
+-----for checking log on 142
+copy node ip for particular service 
+ssh 10.1.23.221 
+cd /data/logs
+vim nwdaf-anlytcsubs-87ddc789d-l7p8p_mvnr-mtcil1-appln-nwdaf-nwdaf1_-1c0cdb3e1b6d212be77787318efa1b25e88e92984a30f826ab0911147287fa8e.log
+tail -f nwdaf-anlytcsubs-87ddc789d-l7p8p_mvnr-mtcil1-appln-nwdaf-nwdaf1_-1c0cdb3e1b6d212be77787318efa1b25e88e92984a30f826ab0911147287fa8e.log
+
+----for cim log
+type _cim after namespace instead of given -tab
+flowEndMillisecodes  wrongly added in memsql
+------ssh 10.1.23.148--node no of service
+cd /data/logs
+ls -lrt pod name*
+tail -f last log file name in above cmd
+
+-------for log check 54 
+type tmp/logs
+check on chrome
+"anyUe": false,
+
+-------checking pcap on 142
+cd /root/NFV_LOG
+ls
+./startLog.sh mvnr-mtcil1-appln-nwdaf-nwdaf1 test
+./stopLog.sh mvnr-mtcil1-appln-nwdaf-nwdaf1 test
+check log in 
+cd /data/nwdaf/logs
+
+-------checking pcap on 142 for particular node
+ssh nodeip
+tcpdump -i any -s 0 -w /tmp/chk.pcap
+tcpdump -i any port 31380  or 32643  -s 0 -w chk.pcap
+login ip through winscp
+check pcap on wireshark
+on transmisson line right click select decode as in that type http2 ...again right click on transmisson line select follow as
+
+kubectl get svc -A | grep isti
+kubectl get svc -A | grep sp
+
+http2 || http || (couchbase && (couchbase.opcode != 0xb5)) || (tcp.port ==7778 || tcp.port == 8888)
+
+grep -r 0.0.0.0
+ 
+-----redeployement on 142
+cd /root/manoj/script
+./deployinstall.sh mvnr-mtcil1-appln-nwdaf-nwdaf1 /data/jenkins/nwdaf/install/job/install/helm
+watch kubectl get pods -n mvnr-mtcil1-appln-nwdaf-nwdaf1
+./deployementuninstall.sh  mvnr-mtcil1-appln-nwdaf-nwdaf1
+/data/jenkins/nwdaf/chart/nwdaf
+values.yaml
+--------redeployment of single pod on 142
+kubectl delete pod -n mvnr-mtcil1-appln-nwdaf-nwdaf1 nwdaf-pollingtmr-7cc7d6654c-2pkr6 
+
+
+kubectl get svc -n mwppaas | grep kube-prometheus-stack-prometheus
+​http://10.1.23.142:9090/graph
+
+jenkins --http://10.1.1.47:8080/job/NWDAF-Patch--Automation_Test/
+jenkins http://10.1.1.47:8080/job/NWDAF-DEV-CUSTOM/configure
+
+----ssh root@ eventsubport
+cpy pod name
+cd data/logs
+ls pod name
+netstat -anp | grep port
+
+------find . -name headers.py
+./usr/local/lib/python2.7/dist-packages/hyper/common/headers.py
+SPECIAL_SNOWFLAKES = set([b'set-cookie', b'set-cookie2', b'anareq', b'eventfilter'])
+
+https://adfs.mavenir.com/adfs/ls?version=1.0&action=signin&realm=urn%3AAppProxy%3Acom&appRealm=bab70c8e-02fa-e811-a2f1-005056af0c44&returnUrl=https%3A%2F%2Fat.mavenir.com%2Fjira%2Fsecure%2FRapidBoard.jspa%3FrapidView%3D1030%26projectKey%3DNWDAF%26selectedIssue%3DNWDAF-216&client-request-id=7716D23C-661F-0000-8995-37771F66D701
+
+curl -s http://10.10.227.22:8093/query/service -u sessiondb_nwdaf:Crd!@Mav123 -d "statement=select * from sessiondb_nwdaf where KTAB='PeerOgSub'"
+
+curl -s http://10.1.23.142:8093/query/service -u sessiondb_nwdaf:Crd!@Mav123 -d "statement=select * from sessiondb_nwdaf where KTAB='PeerOgSub'"
+
+kubectl get svc -n mwppaas | grep kube-prometheus-stack-prometheus
+
+http://10.1.23.142:9090/graph
+
+udr-gw.mvnr-mtcil1-appln-udr-udr1
+
+{​​​namespace="mvnr-mtcil1-appln-nwdaf-nwdaf1",pod=~"nwdaf.*",container=~"nwdaf.*"}​​​
+AnalyticInfoReqEmptyEndTimePass
+    ${headers}    ${headersNF-Type}    ${headersNF-Instances}    ${date}    AnalyticInfoBeforeTest    AnalyticInfoReqWithImmRsp.csv
+    ${startdatetime}    Subtract Time From Date    ${date}    3 minutes
+    ${startTs}    Convert Date    ${startdatetime}    result_format=%Y-%m-%dT%H:%M:%SZ
+    ${anareq}    Set Variable    {"accuracy":"LOW","startTs":"${startTs}"}
+    Set To Dictionary    ${headersNF-Type}    anaReq=${anareq}
+    ${resp}    ${content}    http2Hyper    GET    /nnwdaf-analyticsinfo/v1/analytics    headers=${headersNF-Type}
+    Run Keyword If    '${td.resultCode}'=='204'    Log    Data not received to AnalyticInfo Request
+    ...    ELSE    Should Be Equal    '${resp.status}'    '${td.resultCode}'
+
+Run Keyword If    '${resp.status}'=='200'    Log    Data received to AnalyticInfo Request
+    ...    ELSE    Should Be Equal    '${resp.status}'    '${td.resultCode}'
+--------beyond compare
+sftp://@10.10.205.55://old_home/chk_
+sftp://nikamak@10.10.205.55://home/nikamak/NWDAF-C_1_0_1_0/centos/nwdaf/
+cd /data/jenkins/nwdaf/install/job/install/helm/mwp/charts/nwdaf-anlytcnotf/
+2022-11-16 02:50:18
+nwdaf-master0
+---------kpi verification
+curl -v http://127.0.0.1:9993/metrics
+
+kubectl edit deployment -n mvnr-mtcil1-appln-nwdaf-nwdaf1 nwdaf-pollingtmr
+
+--------values.yml
+/data/jenkins/nwdaf/install/job/install/helm/mwp/values.y
+kubectl scale deployment -n <namespace> --replicas=1 <svc-name>
+--------deployement.yml
+/data/jenkins/nwdaf/install/job/install/helm/mwp/chart
+go to particular service nwdaf-analynoti/templetes/deployment.yml
+ 48_34
+--------ananlytics.json file
+/data/jenkins/nwdaf/install/job/install/helm/mwp/chart/nwdaf-analyInfo/config/mgmt/analytics.json
+ubectl creatt -n 
+ ---------for patch-------------
+we require script file in NWDAF-C_1_0_0_0
+by using manoj credentials in nwdaf folder run below cmd
+
+docker login harbor.mwp-mavenir.com -u manoj.kumar
+password--Welcome@123
+nwdaf-analytics go build --run below cmds
+ sh ~/NWDAF-C_1_0_0_0/scripts/build_docker.sh nwdaf-rancongest
+ sh ~/NWDAF-C_1_0_0_0/scripts/docker_push.sh nwdaf-rancongest patchkoma
+go into 
+/data/jenkins/nwdaf/install/job/install/helm/mwp/chart/nwdaf-dataingest
+vim values.yml
+replace dailybuild as patch
+
+----------change etc/hosts value for particular node
+ssh nodeip
+vim /etc/hosts
+udm1.webscale.com:31380
+
+./deployinstall.sh mvnr-mtcil1-appln-nwdaf-nwdaf1 /data/jenkins/nwdaf/install/job/install/helm/mwp/
+-------------copy log file
+sshpass -p "mavenir" scp  root@10.10.224.54:/root/NWDAF_RnD/variables
+
+patch
+#bash
+appName=$1
+dockerImageFile=${​​​appName}​​​dockerimage_patch.tar
+echo "docker file is $dockerImageFile "
+IMG_ID=`docker load < $dockerImageFile | cut -d ":" -f 3`
+echo "image id $IMG_ID for $dockerImageFile"
+docker tag $IMG_ID harbor.mwp-mavenir.com/5gc/${​​​appName}​​​:patch
+docker push harbor.mwp-mavenir.com/5gc/${​​​appName}​​​:patch
+docker rmi $IMG_ID
+echo " docker upload $imageTarFileName done"
+
+
+SELECT * FROM `sessiondb_nwdaf` WHERE KTAB='IPFIXTEMPLATE'
+DELETE FROM `sessiondb_nwdaf` WHERE KTAB='IPFIXTEMPLATE' and TemplateKey='"10.20.206.0_1_0'
+
+ topogw.fqdn: "topo-gw.mtcil.svc.cluster.local:8080"
+
+{
+  "AnalyticsId": "NF_LOAD",
+  "KTAB": "PeerOgSub",
+  "NotificationTs": "2021-10-18T17:45:58+05:30",
+  "NotificationUri": "http://10.10.205.55:9992/nwdaf/v1/nrf-notify?UniqueDBPeerKey=LOAD_UDR_10.1.12.215:31510",
+  "Peer-NF-Type": "UDR",
+  "PollingDocKey": "",
+  "Req-Params": "status,load",
+  "Sub_NFType": "NRF",
+  "SubscribeTs": "2021-10-18T12:15:43.55648773Z",
+  "SubscriptionId": "0b74dd68-300d-11ec-b801-005056afbb72",
+  "UdpateTs": "0001-01-01T00:00:00Z",
+  "UniquePeerKey": "LOAD_UDR_10.1.12.215:31510",
+  "Validity": 7
+}
+
+kubectl get svc -n mwppaas istio-ingressgateway -o=jsonpath="{.spec.ports[?(@.port==80)].nodePort}"
+for udm ----
+add etc/hosts value with ip and port
+change ip and port spdiscovery json  file
+run sp discovery filr
+in couchdb add ip websccal port 31380 and nftype udm
+check log and pcap smf and amf instances getting or not
+
+tcpdump -i any -v port 30092 -w webserver.pcap
+sudo mysql -u root -p
+ SELECT user FROM mysql.user;
+SELECT user,host FROM mysql.user;
+SHOW DATABASES;
+SHOW DATABASES;
+
+
+Write    head -2 test.txt | tail -1
+    #${SubDoc}    Read until    \#
+    #${RES}    Split String    ${SubDoc}
+    #${SubDocNum}=    Get From List    ${RES}    0
+    #Log    ${SubDocNum}
+${locationtype}    set variable    ${out['results'][0]['sessiondb_nwdaf']['locInfoList']['7']['49f01307da87']['locationType']}
+    ${MainHashId}    set variable    ${out['results'][0]['sessiondb_nwdaf']['locInfoList']['7']['49f01307da87']['mainHashId']}
+    ${SubHashId}    set variable    ${out['results'][0]['sessiondb_nwdaf']['locInfoList']['7']['49f01307da87']['subHashId']}
+    Should Be Equal    '${locationtype}'    '3'
+    Should Be Equal    '${MainHashId}'    '7'
+    Should Be Equal    '${SubHashId}'    '7'
+
+updte query with flow id key
+create seperate csv file for each testcase  
+db also changed after changed in csv file
+sshpass -p admin ssh -o StrictHostKeyChecking=no -p 30070 admin@10.69.95.77
+----------when gettion memsql port error
+memsql-30744
+in commonstaticcfg.json
+,
+
+    "ipfix_ran_Cfg":{
+
+      "crdl_location_max_buckets":10,
+
+      "grcp_location_max_buckets":200
+
+    }
+in memsqlmanager.go
+//      memsqlDB, err = sql.Open("mysql", getMemSQLUri())
+        memsqlDB, err = sql.Open("mysql", "admin:mavenir@tcp(10.1.23.142:30744)/demo")
+
+--------------for 51 machine 
+helm uninstall -n lrb-562-nwdaf nwdafl
+helm install nwdaf /home/lrb_562_nwdaf/install/helm/rcp/helm -n lrb-562-nwdaf
+watch kubectl get pod -n lrb-562-nwdaf -o wide
+http://10.69.95.51:31191/ui/index.html#!/servers/list?scenarioZoom=minute
+
+-----set nwdaf1-ipFix_RanCongestionData-nwdaf1:config locationType [""]
+delete from `sessiondb_nwdaf` USE KEYS 'RANCONGESTION-POLICYDOC'
+
+
+---------Dynamic Update Steps
+ssh -p 30164 admin@10.1.23.142    (password-admin)
+show table ves1-kbDynamicconfig-ves1:config
+configure
+set ves1-kbDynamicconfig-ves1:config kbdata dataingestionsvc knowledgebase kbKafkaIngest Rule Rule1 then <copy structure> & hit Enter.
+commit
+http://10.69.80.234:30733/connect
+SELECT * FROM RANECGIAggTable
+SELECT * FROM RANTAIAggTable
+SELECT * FROM RANCongestionRAWData
+SELECT COUNT(*) FROM RANCongestionRAWData
+DELETE FROM RANCongestionRAWData
+SELECT * FROM RANCongestionRAWData ORDER BY IPFixRecTs DESC LIMIT 10
+SELECT * FROM RANStandardAvg DESC LIMIT 10
+SELECT * from RANCellIdentifierAggTable ORDER BY creTimestamp DESC LIMIT 10
+ kubectl create secret -n dailybuild-prom docker-registry artifactory-registry --docker-server=artifactory.mavenir.com --docker-username=komalambaji.dhamankar@mavenir.com --docker-password=AKCp8nG69XXTSh6GM3TAHkk2dTkoRTV2EiXxzAfDNryG79KCNvPDuakTgt9u541aBpckpp9SU --docker-email=komalambaji.dhamankar@mavenir.com
+[9/15 1:55 PM] Tushar Kaushik
+
+kubectl exec -it -n mvnr-xa xa-cp-kafka-0 -c cp-kafka-broker /bin/bash
+
+kafka-console-consumer --bootstrap-server xa-cp-kafka:9092 --topic trl-nwdaf
+
+
+142 
+
+[{'RULESET': 'NWDAF34', 'RULEINDEX': 1, 'PRIORITY': 0, 'OP': 'DEL'}]
+kubectl exec -it -n mvnr-xa xa-ric-cp-kafka-0 -c cp-kafka-broker /bin/bash
+
+kafka-console-consumer --bootstrap-server xa-ric-cp-kafka:9092 --topic trl-nwdaf
+
+NwdafRanCongestData.RanAiMlRsp.DeviationAverageLatency >= 0 && NwdafRanCongestData.RanAiMlRsp.DeviationAverageRetransmission >= 0 && NwdafRanCongestData.RanAiMlRsp.DeviationAverageThroughputOfUser >= 0 && NwdafRanCongestData.RanAiMlRsp.DeviationNumberOfFlows >= 0
+
+[9/15 1:56 PM] Tushar Kaushik
+https://www.base64decode.org/
+Base64 Decode and Encode - Online
+Decode from Base64 format or encode into it with various advanced options. Our site has an easy to use online tool to convert your data.
+ {
+      "eventId":"SERVICE_EXPERIENCE",
+      "aiserviceIP": "nwdaf-aimlqoeload.nwdaf-it-dbsvc.svc.cluster.local",
+      "aiservicePort":"8888"
+    },
+    {
+var m map[string]string
+	var ss []string
+	ss = strings.Split(parsefilter, ",")
+	m = make(map[string]string)
+	for _, pair := range ss {
+		z := strings.Split(pair, ":")
+		m[z[0]] = z[1]
+		fmt.Println("m[z[0]] = z[1]", z[0], z[1])
+	}
+
+
+parsedEventfilter, err := url.QueryUnescape(q.Get(string(commonapidefs.EVENT_FILTER)))
+	fmt.Println("parsedEventfir", parsedEventfilter)
+	json.Unmarshal([]byte(parsedEventfilter), &parsedData.EventFilter)
+	fmt.Println("Anyslice", parsedData.EventFilter.AnySlice)
+	fmt.Println("parsedData", parsedData.EventFilter.NfTypes)
+	for _, element := range parsedData.EventFilter.NfTypes {
+		fmt.Println("***", element)
+		fmt.Println("***&NFTypeAnyOf", *element.NFTypeAnyOf)
+	}
+
+parsedEventfilter, err := url.QueryUnescape(q.Get(string(commonapidefs.EVENT_FILTER)))
+	fmt.Println("parsedEventfir", parsedEventfilter)
+	json.Unmarshal([]byte(parsedEventfilter), &parsedData.EventFilter)
+	fmt.Println("Anyslice", parsedData.EventFilter.AnySlice)
+	fmt.Println("parsedData", parsedData.EventFilter.NfTypes)
+	for _, element := range parsedData.EventFilter.NfTypes {
+		fmt.Println("***&NFTypeAnyOf", *element.NFTypeAnyOf)
+	}
+
+if parsedData.EventFilter.NfInstanceIds != nil {
+						result := strings.Join(parsedData.EventFilter.NfInstanceIds, " ")
+						trl.RecordAnalyticInfoRequestNfInstances(result, trlMsg)
+					} else if  parsedData.EventFilter.NfTypes!= nil {
+						nftypes := ""
+						for _, element := range parsedData.EventFilter.NfTypes {
+							nftypes += string(*element.NFTypeAnyOf) + " "
+						}
+						trl.RecordAnalyticInfoRequestNfTypes(nftypes, trlMsg)
+					}
+
+
+
+
+ml.MavLog(ml.INFO, lTransId, NFType+Plus, trlMsg.HeaderInfo.NfType)
+	ml.MavLog(ml.INFO, lTransId, NFInstance+Plus, trlMsg.HeaderInfo.NfInstanceId)
+	ml.MavLog(ml.INFO, lTransId, PodName+Plus, trlMsg.HeaderInfo.PodName)
+	ml.MavLog(ml.INFO, lTransId, StartTs+Plus, trlMsg.HeaderInfo.StartTime)
+	ml.MavLog(ml.INFO, lTransId, ProcedureName+Plus, trlMsg.HeaderInfo.ProcedureName)
+	ml.MavLog(ml.INFO, lTransId, EndTs+Plus, trlMsg.HeaderInfo.EndTime)
+
+trlMsg.HeaderInfo.TraceId = traceId
+	trlMsg.HeaderInfo.SpanId = spanId
+	trlMsg.HeaderInfo.ParentSpanId = parentSpanId
+	trlMsg.HeaderInfo.ProcedureName = procedureName
+
+
+	if trlMsg == nil {
+		return
+	}
+	trlMsg.AnalyticsInfoSvcInfo.RequestDetails.NfInstanceID = nfInstanceID
+	trlMsg.HeaderInfo.NfInstanceId = nfInstanceID
+}
+func RecordAnalyticInfoRequestNfTypes(nfTypes string, trlMsg *TRL_NWDAF) {
+	if trlMsg == nil {
+		return
+	}
+	trlMsg.HeaderInfo.NfType = nfTypes
+}
+	recordHeader(r.Header.Get(cc.B3_TRACE_ID_HEADER_NAME), r.Header.Get(cc.B3_SPAN_ID_HEADER_NAME), r.Header.Get(cc.B3_PARENT_SPAN_ID_HEADER_NAME), r.Header.Get(cc.B3_TRACE_ID_HEADER_NAME), "ANALYTIC_INFO", trlMsg)
+PodName               = "PodName"
+)
+go test -v -coverprofile=c.out
+go tool cover -html=c.out -o /home/dhamankark/coverageMainEvent.html
+    for i in req['appIds']:
+       if i['appId'] == 'Snapchat':
+            if i['appId'] == 'Instagram':
+                print("ok")
+    for i in req['appIds']:
+        for j in res['svcExps']['appId']:
+            if j == i:
+                appidscount=appidscount+1
+            if req['nsiIdInfos']['nsiIds'][0]==res['svcExps']['nsiId']:
+                print("oknsi")
+
+    for i in req['networkArea']['tais']:
+        if i['plmnId']['mcc'] == 'faf' and i['plmnId']['mnc'] == 'afa' and i['Tac'] == 'faf8':
+            print("oknetwork"
+['appId']
+
+  #ReqresData    ${content}    ${paramsWithAppIdNtwkAreaSlice}
+"ipfixDataAggregationInterval":RANCongestionRAWData ,
+			"ipfixRANAggregationIntervalms" :RANCellIdentifierAggTable 
+
+
+scp nwdaf-worker2:/data/logs/nwdaf-anlytcinfo-dfd8db4f9-czrw6_nwdaf-tushar_-541752771fdb7925375e7a33349989a2b9b5be07f8b18daef7d176bf8e08c2e5.log /data/komal/.
+
+pabot --pabotlib --testlevelsplit --verbose --processes 5 --pabotlibport 1721 --ordering ordering/pabotNF-LoadSuite --include Sanity1 --log ../reports/QoE_sanity_log.html --report ../reports/Nfload_sanity_report.html --output output.xml --variablefile=../variables/Provision77.py NWDAF_Sanity_Suite.robot
+840123839907060102032c23ed
+/komal/tempRobot/robot/tests
+840BBF839907060102032C37
+841234569907060102032c37
+AnalyticInfoQoSWithAppIdNtwkAreaSlicePastTs
+robot --outputdir=/tmp/komal --variablefile=../variables/Provision77.py --test AnalyticInfoReqWithImmRspWithNF-TypePastTs  NWDAF_Sanity_Suite.robot
+robot  --outputdir=/tmp/komal --variablefile=../variables/Provision142.py --test "ObservedSvcExpAnalyticsSubwithnetworkareainvalid" NWDAF_Sanity_QoS.robot
+ kubectl logs -n nwdaf-it-prom prometheus-simulator-86458ccb84-bjzbh prometheus-simulator -f
+kubectl logs -n mwppaas  istio-ingressgateway-9cf4c6f69-kzvhg --tail=10 -f
+kubectl describe ingresses.networking.k8s.io -A
+
+nnwdaf-eventnotify/
+ set nwdaf1-dev.custom-kbDynamicconfig-nwdaf1-deev.custom:config kbdata rancongestionSvc knowledgebase KbRancongestionSvc Rule CheckMePolicy1 when "NwdafRanCongestData.RanAiMlRsp.DeviationAverageLatency >= 0 && NwdafRanCongestData.RanAiMlRsp.DeviationAverageRetransmission >= 0 && NwdafRanCongestData.RanAiMlRsp.DeviationAverageThroughputOfUser >= 0 && NwdafRanCongestData.RanAiMlRsp.DeviationNumberOfFlows >= 0"
+     
+
+params=${paramsWIthTargetUE}
+
+80123456fafa
+IPFIXPOLLINGTRIGGER
+
+export PATH=$PATH:/opt/sonar-scanner/bin/ 
+sonar-scanner
+
+
+helm install nwdafkml-sim -n nwdaf-kml /data/komal/nwdaf-simulator/
+kubectl logs -n mwppaas istio-ingressgateway-9cf4c6f69-f7xg8 istio-proxy --tail=10 -f
+
+{{- if .Values.analyticinfoservice_enabled -}}
+find . -type f -name "*.sw[klmnop]" 
+helm install mtcil /home/ocp/mtcil_22.3.x/artifacts/mtcil-22.3.2.x.tgz --version 22.3.2.x -f  OpenShift_values.yaml  --create-namespace --namespace mtcil --debug
